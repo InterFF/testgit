@@ -5,12 +5,8 @@ four line
 five line:
 sax line  
 about [SEMVER](http://semver.org)
-senve line  
-@test
-this is a test.
-hohohoho
-hohohoho
-hohohhoho
-git stash second  
-git stash three.
+this is a test.  
+update 3 line  
+update 3 line  
+update 3 line  
 
