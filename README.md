@@ -5,15 +5,8 @@ four line
 five line:
 sax line  
 about [SEMVER](http://semver.org)
-senve line  
-@test  
-hahahaha  
 this is a test.  
 update 3 line  
 update 3 line  
 update 3 line  
-update 4 line ha ha ha ha  
-haha
-have a good day!
-this is a test
 
